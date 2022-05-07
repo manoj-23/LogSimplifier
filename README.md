@@ -1,2 +1,2 @@
-# LogSimplifier
+# Log Simplifier
 LogSimplifier - Personal Project
