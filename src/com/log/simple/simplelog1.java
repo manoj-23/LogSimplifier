@@ -14,6 +14,7 @@ public class simplelog1 {
 		
 		List<String> mainList = new ArrayList<>();
 		// TODO Auto-generated method stub
+		// for fPath  need to give actual file path
 		String fPath = "D:\\Work\\LTMS\\Maintaince\\Logs\\LTMS_Logs_05_05_2022_08_00_01\\31_LTMSCommDecodeLog_04_05_2022.txt";
 		
 		List<String> data = readFileIntoList(fPath);
